@@ -81,6 +81,8 @@ global-data-analyzer/
 
 ---
 
+</br>
+
 ## Setup & Installation
 
 ### 1. Clone the repository
@@ -130,6 +132,8 @@ python database/connection.py
 
 ---
 
+</br>
+
 ## Sample Output
 
 ```
@@ -146,8 +150,24 @@ REPORT 2 >> TOP 10 RICHEST COUNTRIES BY GDP
 
 ---
 
+## Output Screenshots
+
+### Scraping Phase
+![Scraping](output-screenshots/1.png)
+
+### Cleaning Phase
+![Cleaning](output-screenshots/2.png)
+
+### Analytics Phase - Part 1
+![Analytics 1](output-screenshots/3.png)
+
+### Analytics Phase - Part 2
+![Analytics 2](output-screenshots/4.png)
+
+---
+
 ## Author
 
 **Praveen Kumar Reddy**
-SRH University Hamburg — Data Management Project
+SRH University Hamburg - Data Management Project </br>
 Summer Semester 2026
